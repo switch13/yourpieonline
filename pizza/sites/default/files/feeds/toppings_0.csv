@@ -1,0 +1,82 @@
+sku,title,category,size,price,topping type
+sm_extra_cheese,Extra Cheese,Topping,sm,100,extra_cheese
+sm_pepperoni,Pepperoni,Topping,sm,100,pepperoni
+sm_sausage,Sausage,Topping,sm,100,sausage
+sm_mushrooms,Mushrooms,Topping,sm,100,mushrooms
+sm_bacon,Bacon,Topping,sm,100,bacon
+sm_black_olives,Black Olives,Topping,sm,100,black_olives
+sm_onions,Onions,Topping,sm,100,onions
+sm_spinach,Spinach,Topping,sm,100,spinach
+sm_broccoli,Broccoli,Topping,sm,100,broccoli
+sm_ham,Ham,Topping,sm,100,ham
+sm_meatballs,Meatballs,Topping,sm,100,meatballs
+sm_green_peppers,Green Peppers,Topping,sm,100,green_peppers
+sm_hot_peppers,Hot Peppers,Topping,sm,100,hot_peppers
+sm_anchovies,Anchovies,Topping,sm,100,anchovies
+sm_broccoli_rabe,Broccoli Rabe,Topping,sm,175,broccoli_rabe
+sm_shrimp,Shrimp,Topping,sm,175,shrimp
+sm_eggplant,Eggplant,Topping,sm,175,eggplant
+sm_prosciutto,Prosciutto,Topping,sm,175,prosciutto
+sm_roasted_peppers,Roasted Peppers,Topping,sm,175,roasted_peppers
+sm_artichokes,Artichokes,Topping,sm,175,artichokes
+sm_italian_olives,Italian Olives,Topping,sm,175,italian_olives
+sm_fresh_mozzarella,Fresh Mozzarella,Topping,sm,175,fresh_mozzarella
+sm_sharp_provolone,Sharp Provolone,Topping,sm,175,sharp_provolone
+sm_sundried_tomatoes,Sundried Tomatoes,Topping,sm,175,sundried_tomatoes
+sm_pesto,Pesto,Topping,sm,175,pesto
+sm_ricotta_cheese,Ricotta Cheese,Topping,sm,175,ricotta_cheese
+sm_grilled_chicken,Grilled Chicken,Topping,sm,175,grilled_chicken
+med_extra_cheese,Extra Cheese,Topping,med,150,extra_cheese
+med_pepperoni,Pepperoni,Topping,med,150,pepperoni
+med_sausage,Sausage,Topping,med,150,sausage
+med_mushrooms,Mushrooms,Topping,med,150,mushrooms
+med_bacon,Bacon,Topping,med,150,bacon
+med_black_olives,Black Olives,Topping,med,150,black_olives
+med_onions,Onions,Topping,med,150,onions
+med_spinach,Spinach,Topping,med,150,spinach
+med_broccoli,Broccoli,Topping,med,150,broccoli
+med_ham,Ham,Topping,med,150,ham
+med_meatballs,Meatballs,Topping,med,150,meatballs
+med_green_peppers,Green Peppers,Topping,med,150,green_peppers
+med_hot_peppers,Hot Peppers,Topping,med,150,hot_peppers
+med_anchovies,Anchovies,Topping,med,150,anchovies
+med_broccoli_rabe,Broccoli Rabe,Topping,med,250,broccoli_rabe
+med_shrimp,Shrimp,Topping,med,250,shrimp
+med_eggplant,Eggplant,Topping,med,250,eggplant
+med_prosciutto,Prosciutto,Topping,med,250,prosciutto
+med_roasted_peppers,Roasted Peppers,Topping,med,250,roasted_peppers
+med_artichokes,Artichokes,Topping,med,250,artichokes
+med_italian_olives,Italian Olives,Topping,med,250,italian_olives
+med_fresh_mozzarella,Fresh Mozzarella,Topping,med,250,fresh_mozzarella
+med_sharp_provolone,Sharp Provolone,Topping,med,250,sharp_provolone
+med_sundried_tomatoes,Sundried Tomatoes,Topping,med,250,sundried_tomatoes
+med_pesto,Pesto,Topping,med,250,pesto
+med_ricotta_cheese,Ricotta Cheese,Topping,med,250,ricotta_cheese
+med_grilled_chicken,Grilled Chicken,Topping,med,250,grilled_chicken
+lg_extra_cheese,Extra Cheese,Topping,lg,200,extra_cheese
+lg_pepperoni,Pepperoni,Topping,lg,200,pepperoni
+lg_sausage,Sausage,Topping,lg,200,sausage
+lg_mushrooms,Mushrooms,Topping,lg,200,mushrooms
+lg_bacon,Bacon,Topping,lg,200,bacon
+lg_black_olives,Black Olives,Topping,lg,200,black_olives
+lg_onions,Onions,Topping,lg,200,onions
+lg_spinach,Spinach,Topping,lg,200,spinach
+lg_broccoli,Broccoli,Topping,lg,200,broccoli
+lg_ham,Ham,Topping,lg,200,ham
+lg_meatballs,Meatballs,Topping,lg,200,meatballs
+lg_green_peppers,Green Peppers,Topping,lg,200,green_peppers
+lg_hot_peppers,Hot Peppers,Topping,lg,200,hot_peppers
+lg_anchovies,Anchovies,Topping,lg,200,anchovies
+lg_broccoli_rabe,Broccoli Rabe,Topping,lg,300,broccoli_rabe
+lg_shrimp,Shrimp,Topping,lg,300,shrimp
+lg_eggplant,Eggplant,Topping,lg,300,eggplant
+lg_prosciutto,Prosciutto,Topping,lg,300,prosciutto
+lg_roasted_peppers,Roasted Peppers,Topping,lg,300,roasted_peppers
+lg_artichokes,Artichokes,Topping,lg,300,artichokes
+lg_italian_olives,Italian Olives,Topping,lg,300,italian_olives
+lg_fresh_mozzarella,Fresh Mozzarella,Topping,lg,300,fresh_mozzarella
+lg_sharp_provolone,Sharp Provolone,Topping,lg,300,sharp_provolone
+lg_sundried_tomatoes,Sundried Tomatoes,Topping,lg,300,sundried_tomatoes
+lg_pesto,Pesto,Topping,lg,300,pesto
+lg_ricotta_cheese,Ricotta Cheese,Topping,lg,300,ricotta_cheese
+lg_grilled_chicken,Grilled Chicken,Topping,lg,300,grilled_chicken

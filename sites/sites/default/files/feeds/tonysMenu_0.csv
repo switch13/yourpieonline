@@ -1,0 +1,259 @@
+SKU,Title,Price,Category,Description
+100,American Cheese Hoagie,450,Hoagies,
+101,Mixed Cheese Hoagie,575,Hoagies,"Sharp Provolone, Swiss & American"
+102,Flounder & Cheese Hoagie,625,Hoagies,
+103,Tuna Salad & Cheese Hoagie,595,Hoagies,Another Philly Favorite
+104,Oven Roasted Turkey & Cheese Hoagie,595,Hoagies,
+105,Chicken Salad & Cheese Hoagie,595,Hoagies,Made with Homemade Chunky Chicken
+106,Corn Beef & Cheese Hoagie,595,Hoagies,Try it with Russian Dressing & Cole Slaw Sheinmans Jewish Style
+107,Roast Beef & Cheese Hoagie,595,Hoagies,Sheinmans Jewish Style
+108,Italian Hoagie,595,Hoagies,
+109,Genoa & Provolone Cheese Hoagie,595,Hoagies,
+110,Ham & Cheese Hoagie,550,Hoagies,
+111,American Cheese,395,Cold Sandwiches,
+112,Swiss Cheese,450,Cold Sandwiches,
+113,Ham & Cheese,450,Cold Sandwiches,
+114,Ham & Swiss,495,Cold Sandwiches,
+115,Ham,425,Cold Sandwiches,
+116,Genoa Salami & Sharp Provolone,495,Cold Sandwiches,
+117,Oven Roasted Turkey & Cheese,495,Cold Sandwiches,
+118,Liverwurst & Onion,425,Cold Sandwiches,
+119,Egg Salad,425,Cold Sandwiches,(Made to order)
+120,Egg Salad with Bacon,500,Cold Sandwiches,
+121,"Bacon, Lettuce & Tomato",450,Cold Sandwiches,
+122,Roast Beef & Cheese,525,Cold Sandwiches,Sheinmans Jewish Style
+123,Roast Beef Special,595,Cold Sandwiches,Sheinmans Jewish Style
+124,Corn Beef & Cheese,525,Cold Sandwiches,Sheinmans Jewish Style
+125,Corn Beef Special,595,Cold Sandwiches,Sheinmans Jewish Style
+126,Tuna Salad,495,Cold Sandwiches,Homemade
+127,Tuna Salad with Bacon,570,Cold Sandwiches,Homemade
+128,Chicken Salad,495,Cold Sandwiches,Homemade
+129,Chicken Salad with Bacon,570,Cold Sandwiches,Homemade
+130,Tossed Garden Salad,465,Salads,
+131,Tossed Salad with Egg & Cheese,525,Salads,
+132,Tossed Salad with Chicken Salad,695,Salads,
+133,Tossed Salad with Individual Can Tuna,695,Salads,
+134,Tossed Salad with Tuna Salad,695,Salads,
+135,Julienne Salad,695,Salads,"Made with Oven Roasted Turkey, Ham & Cheese"
+136,Italian Antipasto,695,Salads,"Made with Genoa Salami, Ham, Sharp Provolone Cheese, Cappicola & Pepperoni"
+137,House Salad,695,Salads,Made with Roast Beef & Swiss Cheese
+138,Tossed Salad with Marinated Grilled Chicken,695,Salads,
+139,Tossed Salad with Chicken Finger Strips,795,Salads,Made with Chopped Bacon Bits & Sharp Provolone
+140,Greek Salad,695,Salads,
+141,Caesar Salad,525,Salads,"with Romaine Lettuce, Croutons & Caesar Dressing"
+142,Caesar Salad with Grilled Chicken Breast,695,Salads,"With Romaine Lettuce, Croutons & Caesar Dressing"
+143,Egg Salad,695,Cold Platters,
+144,Ham & Mixed Cheese,745,Cold Platters,
+145,Oven Roasted Turkey,725,Cold Platters,
+146,Homemade Chicken Salad,745,Cold Platters,
+147,Homemade Tuna Salad,745,Cold Platters,
+148,Assorted Cold Cuts,795,Cold Platters,
+149,Roast Beef & Swiss,750,Cold Platters,
+150,Hamburger,400,Hamburgers,
+151,Cheese Burger,450,Hamburgers,
+152,Double Cheeseburger,450,Hamburgers,2 4oz. Patties
+153,Pizza Burger,525,Hamburgers,Served on a Kaiser Roll with Melted Sharp Provolone
+154,Cheeseburger Deluxe,625,Hamburgers,"With Lettuce & Tomato French Fries, Cole Slaw & Raw Onions"
+155,Turkey Cheeseburger,450,Hamburgers,(5.3 Ounces) Served on Kaiser Roll
+156,Old Hickory Burger,725,Hamburgers,"Served on Kaiser Roll with Melted Swiss, Bacon, B.B.Q. Sauce, French Fries & Cole Slaw"
+157,Veggie Burger,450,Hamburgers,"Served on a Kaiser Roll with Melted American Cheese, Lettuce & Tomato"
+158,Patty Melt,525,Hamburgers,1/2 lb. Burger Served on Grilled Rye with Swiss Cheese & Sauteed Onions
+159,1/2 lb. Hamburger Deluxe,575,Suggestions,"With French Fries, Cole Slaw, Lettuce, Tomato & Onions (made with Veggie Burger or Turkey Burger)"
+160,1/2 lb. Hamburger Deluxe with Cheese,625,Suggestions,"With French Fries, Cole Slaw, Lettuce, Tomato & Onions (made with Veggie Burger or Turkey Burger)"
+161,1/2 lb. Hamburger Deluxe with Cheese and Bacon,700,Suggestions,"With French Fries, Cole Slaw, Lettuce, Tomato & Onions (made with Veggie Burger or Turkey Burger)"
+162,Marinated Grilled Chicken Breast Deluxe,600,Suggestions,"with Fries, Cole Slaw, Lettuce, Tomatoes and choice of Mayonnaise, Boney Mustard or B.B.Q Sauce"
+163,Marinated Grilled Chicken Breast Deluxe with Melted Swiss Cheese & Bacon,725,Suggestions,"with Fries, Cole Slaw, Lettuce, Tomatoes and choice of Mayonnaise, Boney Mustard or B.B.Q Sauce"
+164,Gyro on Pita Bread,645,Suggestions,"with French Fries, Lettuce, Tomatoes, Onions, Greek Sauce & Cole Slaw"
+165,Chicken Fingers,675,Suggestions,"with French Fries Cole Slaw and choice of Bleu Cheese, Honey Mustard or B.B.Q Sauce"
+166,Roast Pork Sandwich,695,Suggestions,"Served on Kaiser Roll with Horseradish French Fries, Cole Slaw, Spinach & Sharp Provolone Cheese"
+167,Marinated Grilled Chicken Breast,695,Suggestions,"Served on Choice of Kaiser Roll or Pita Bread with French Fries, Cole Slaw, Spinach & Sharp Provolone Cheese"
+168,Hawaiian Burger or Hawaiian Chicken,725,Suggestions,"Served on Kaiser Roll with French Fries, Cole Slaw, Melted Swiss Cheese, Teriyaki Sauce & Grilled Pineapple"
+169,Chicken or Tuna Salad,695,Suggestions,"Served on Pita Bread with Romaine Lettuce, Tomato, French Fries & Cole Slaw"
+170,Cod Fish & Chips,695,Suggestions,Served with French Fries & Cole Slaw
+171,Four Piece Honey Dipped Chicken,725,Suggestions,Served with French Fries & Cole Slaw
+172,Marinated Grilled Chicken Breast Strips,725,Suggestions,"Served with French Fries, Cole Slaw, Romaine Lettuce, Tomato & Caesar Dressing on a Pita Bread"
+173,Chicken Cordon Bleu,695,Suggestions,"Served on a Kaiser Roll with Melted Swiss Cheese, Spicy Cappicola Ham & Honey Mustard with French Fries & Cole Slaw"
+174,Marinated Grilled Chicken Breast,725,Suggestions,"with Roasted Peppers, Melted Sharp Provolone Cheese, French Fries & Cole Slaw"
+175,Hand Breaded Chicken Cutlet,725,Suggestions,"with Spinach, Melted Sharp Provolone Cheese, French Fries & Cole Slaw"
+176,Ranchers Marinated Grilled Chicken,725,Suggestions,"with Melted Sharp Provolone, Roasted Peppers & Sauteed Onions, Drizzled with Ranch Dressing & Served with French Fries & Cole Slaw on a Kaiser Roll or Pita Bread"
+177,CHEESE STEAK,550,Hot Sandwiches,
+178,CHEESE STEAK HOAGIE,600,Hot Sandwiches,
+179,PIZZA STEAK,625,Hot Sandwiches,
+180,MUSHROOM CHEESE STEAK,600,Hot Sandwiches,
+181,PEPPER CHEESE STEAK,600,Hot Sandwiches,
+182,MEATBALL,525,Hot Sandwiches,
+183,MEATBALL PARMIGIANA,575,Hot Sandwiches,
+184,HOT ROAST BEEF,595,Hot Sandwiches,with Melted Provolone & Gravy on Kaiser Roll
+185,OPEN FACE HOT ROAST BEEF,750,Hot Sandwiches,with (1) Vegetable on White Bread
+186,HOT OVEN ROASTED TURKEY,595,Hot Sandwiches,with Provolone Cheese & Gravy on Kaiser Roll
+187,OPEN FACE OVEN ROASTED TURKEY,750,Hot Sandwiches,with (1) Vegetable & Gravy
+188,HOT ROAST PORK,595,Hot Sandwiches,with Sharp Provolone & Spinach on Kaiser Roll
+189,TONY'S STEAK ROYAL,650,Hot Sandwiches,"Mushrooms, Onions, Peppers, Sauce & Melted Provolone    "
+190,PORK ROLL & AMERICAN CHEESE,425,Grilled Sandwiches, on a Kaiser Roll
+191,GRILLED CHEESE,395,Grilled Sandwiches,
+192,GRILLED MONTE CRISTO ,595,Grilled Sandwiches,"Melted Swiss, ham, Bacon, Turkey & Tomato on Rye"
+193,"REUBENS: GRILLED CORNED BEEF, PASTRAMI, or TURKEY",65,Grilled Sandwiches,"with Melted Swiss, Sauerkraut & Russian dressing, Served on Grilled Rye Bread"
+194,GRILLED CUBANO,695,Grilled Sandwiches,"Roasted Pork, Sam, Swiss Cheese, Pickle Slices, Shredded Lettuce, Mango Slices & Mustard on Grilled Rye Bread"
+195,GRILLED CHICKEN BREAST,495,Grilled Sandwiches," on a Kaiser Roll, with Lettuce & Tomatoes"
+196,GRILLED CHICKEN ALA SPECIAL ,595,Grilled Sandwiches,"American Melted Cheese, Bacon, Lettuce & Tomato on a Bun"
+197,FRESH OVEN ROASTED TURKEY BREAST & BACON,725,Triple Decker Clubs,Lettuce & Tomato
+198,HAM & SWISS CHEESE,675,Triple Decker Clubs, lettuce & Tomato
+199,ROAST BEEF & SWISS CHEESE ,725,Triple Decker Clubs,Lettuce & Tomato
+200,CORN BEEF & SWISS CHEESE,725,Triple Decker Clubs,Lettuce & Tomato
+201,CHICKEN SALAD WITH BACON OR EGG,695,Triple Decker Clubs,Lettuce & Tomato
+202,TUNA FISH & EGG,695,Triple Decker Clubs,Lettuce & Tomato
+203,"BACON, HARD BOILED EGG & CHEESE",695,Triple Decker Clubs,Lettuce & Tomato
+204,KING VASILIOS  ,695,Triple Decker Clubs,"Double Decker Cheesesteak with Bacon Served on Toast with Lettuce, Tomato & Mayo"
+205,HAMBURGER,795,Triple Decker Clubs," lettuce, Tomato, Bacon & Cheese (2) Patties -(4oz.)"
+206,MARINATED GRILLED CHICKEN BREAST,795,Triple Decker Clubs, Bacon & Sharp Provolone Cheese
+207,CRAB CAKE,415,Seafood, on a Bun with Tartar Sauce
+208,CRAB CAKE PARMIGIANA,495,Seafood, on a Bun
+209,FISH CAKE on a Bun with Tartar Sauce,350,Seafood, on a Bun with Tartar Sauce
+210,FILET of FLOUNDER,575,Seafood, on Long Roll with Tartar Sauce
+211,FLOUNDER PARMIGIANA ,655,Seafood,on Long Roll
+212,CHICKEN CHEESE STEAK,595,Signature Chicken Sandwiches,
+213,BUFFALO CHICKEN CHEESE STEAK,650,Signature Chicken Sandwiches," Hot Sauce, Blue Cheese Dressing, & American Cheese"
+214,CHICKEN PIZZA STEAK,650,Signature Chicken Sandwiches,
+215,CHICKEN TEXAN STYLE,695,Signature Chicken Sandwiches," Marinated Grilled Chicken with Bacon, BBQ Sauce, & American Cheese"
+216,CHICKEN & BROCCOLI,695,Signature Chicken Sandwiches,"Marinated Grilled Chicken with Broccoli, Tomatoes & American Cheese"
+217,CHICKEN VEGGIE SUPREME,750,Signature Chicken Sandwiches,"Marinated Grilled Chicken with Mushrooms, Peppers, Onions, Broccoli, Spinach, Tomatoes, & Melted Provolone Cheese"
+218,CHICKEN CORDON BLUE,650,Signature Chicken Sandwiches,"Hand Breaded Marinated Chicken Breast with Capicolla, Melted Swiss & Honey Mustard"
+219,CHICKEN CUTLET HOAGIE,650,Signature Chicken Sandwiches,"Hand Breaded Marinated Chicken Breast with American Cheese, Lettuce, Tomatoes & Onions"
+220,CHICKEN CAESAR,650,Signature Chicken Sandwiches,"Marinated Grilled Chicken Breast with Romaine Lettuce, Tomatoes, & Homemade Caesar Dressing CHICKEN PARMIGIANA Hand Breaded Chicken Cutlet with Sauce & Melted Provolone Cheese"
+221,CHICKEN PARMIGIANA,650,Signature Chicken Sandwiches, Hand Breaded Chicken Cutlet with Sauce & Melted Provolone Cheese
+222,CHICKEN & SPINACH or ROASTED PEPPERS,650,Signature Chicken Sandwiches,Marinated Grilled Chicken with Spinach or Roasted Peppers & Melted Provolone Cheese
+223,TONYS CHICKEN STEAK ROYAL ,695,Signature Chicken Sandwiches,"Mushrooms, Onions, Peppers, Melted Provolone & Sauce"
+224,MARINATED GRILLED CHICKEN BREAST,745,Low Carb Items,"with Melted Provolone Cheese, Roasted Peppers, Spinach & Sauteed Onions"
+225,1/2 LB. BEEF OR TURKEY BURGER,725,Low Carb Items,"with Melted Provolone, Pizza Sauce, Sauteed Onions & Mushrooms"
+226,CHOPPED STEAK,795,Platters, with Onions & Gravy
+227,CHOPPED STEAK,845,Platters,"with Onion, Mushroom & Gravy"
+228,GRILLED CHICKEN BREAST PLATTER ,895,Platters,"with Melted Sharp Provolone Cheese, Spinach & Tomato"
+229,FISH CAKES,625,Platters,
+230,CRAB CAKES,825,Platters,
+231,FILET OF FLOUNDER (2pcs.),895,Platters,
+232,SEAFOOD COMBINATION,975,Platters,
+233,SHRIMP IN A BASKET,825,Platters,
+234,VEAL PARMIGIANA OR CHICKEN PARM,895,Platters, with Spaghetti (No Vegetables)
+235,SPAGHETTI,625,Platters, with Sauce (No Vegetables)
+236,SPAGHETTI ,695,Platters,with Meatballs (No Vegetables)
+237,RAVIOLI and CHEESE ,650,Platters,with Sauce (No Vegetables)
+238,RAVIOLI and CHEESE ,895,Platters,with Meatball (No Vegetables)
+239,RIGATONI and CHEESE ,650,Platters,with Sauce (No Vegetables)
+240,RIGATONI and CHEESE ,695,Platters,with Meatball (No Vegetables)
+241,TERIYAKI CHICKEN ,925,Platters,Grilled Chicken with Teriyaki Sauce
+242,TONY'S BARBEQUE BABY BACK RIBS COMBO,995,Platters,"1/2 Rack of Ribs & 1 Piece BBQ Chicken with Fries, Cole Slaw, Roll & House Caesar Salad"
+243,TONYS BARBEQUE BABY BACK RIBS,1449,Platters,"Whole Rack of Ribs with Fries, Cole Slaw, Roll & House Caesar Salad"
+244,CHICKEN WINGS,350,Wings,3 PCS.
+245,CHICKEN WINGS,595,Wings,6 PCS.
+246,CHICKEN WINGS,825,Wings,9 PCS.
+247,CHICKEN WINGS,1825,Wings,20 PCS.
+248,WINGS DINGS,350,Wings,5 PCS.
+249,WINGS DINGS,575,Wings,10 PCS.
+250,WINGS DINGS,838,Wings,15 PCS.
+251,WINGS DINGS,1395,Wings,25 PCS.
+252,WINGS DINGS,2575,Wings,50 PCS.
+253,CHICKEN FINGERS,575,Wings,6 PCS.
+254,CHICKEN FINGERS,1895,Wings,20 PCS.
+255,CHICKEN NOODLE,0,Soups,
+256,VEGETABLE,0,Soups,
+257,SPLIT PEA,0,Soups,
+258,NAVY BEAN,0,Soups,
+259,NEW ENGLAND CLAM CHOWDER,0,Soups,
+260,CREAM of TURKEY with RICE,0,Soups,
+261,(6) MOZZARELLA STICKS,365,Side Orders,
+262,FRENCH FRIES,200,Side Orders,
+263,FRENCH FRIES,295,Side Orders,with Cheese
+264,CRISSCUT FRIES,250,Side Orders,
+265,CRISSCUT FRIES,345,Side Orders,with Cheese
+266,ONION RINGS,250,Side Orders,
+267,ONION RINGS,345,Side Orders,with Cheese
+268,PIZZA FRIES,375,Side Orders,
+269,"SHRIMP ""N"" BASKET",595,Side Orders,
+270,(4) PIECES OF CHICKEN,595,Side Orders,
+271,MASHED POTATOES ,200,Side Orders,with Gravy
+272,COLE SLAW ,0,Side Orders,(Homemade)
+273,POTATO SALAD ,0,Side Orders,(Homemade)
+274,GREEN VEGETABLE,195,Side Orders,
+275,FETA CHEESE,275,Side Orders,
+276,SPINACH,325,Side Orders,
+277,FRESH HOT LACAS COFFEE,0,Beverages,
+278,BREWED DECAFFEINATED COFFEE,0,Beverages,
+279,HOT TEA,0,Beverages,
+280,HOT CHOCOLATE,0,Beverages,
+281,16 oz. BOTTLED JUICES,160,Beverages,
+282,MYSTIC/SNAPPLE 16 oz. BOTTLED JUICE,150,Beverages,
+283,16 oz. CARTON OF TROPICANA PURE JUICES,99,Beverages,
+284,20 oz. BOTTLED SODAS,145,Beverages,
+285,12 oz. CANNED SODAS,75,Beverages,
+286,TOMATO JUICE or V-8,145,Beverages,
+287,PINT OF MILK,135,Beverages,
+288,PINT CHOCOLATE MILK,135,Beverages,
+289,HAND DIPPED MILK SHAKES 20oz,375,Beverages,
+290,HOMEMADE BREWED ICED TEA,0,Beverages,
+291,20 oz. FOUNTAIN SODA,0,Beverages,
+292,CHERRY or PINEAPPLE CHEESECAKE,275,Desserts,
+293,CARROT CAKE,275,Desserts,
+294,HAND DIPPED ICE CREAM PINTS,0,Desserts,"AVAILABLE IN VANILLA, STRAWBERRY & CHOCOLATE"
+295,TWO Eggs Any Style,250,Eggs,
+296,WESTERN OMELETS,475,Omelets,
+297,CHEESE OMELETS,475,Omelets,
+298,FETA OMELETS,595,Omelets,
+299,HAM OMELETS,475,Omelets,
+300,MUSHROOM OMELETS,475,Omelets,
+301,GREEN BELL PEPPER & ONION,475,Omelets,
+302,SPANISH OMELETS,525,Omelets,
+303,TOMATO & SPINACH OMELETS,525,Omelets,
+304,CORN BEEF OMELETS,575,Omelets,
+305,SAUSAGE OMELETS,550,Omelets,
+306,BACON OMELETS,550,Omelets,
+307,FRENCH TOAST ,325,French Toast & Pancakes,(3 Slices)
+308,SIX MEDIUM PANCAKES ,395,French Toast & Pancakes,with Butter & Syrup
+309,THREE PANCAKES ,325,French Toast & Pancakes,with Butter & Syrup
+310,THREE PANCAKES ,525,French Toast & Pancakes,with Breakfast Meat
+311,EGG SANDWICH,195,Breakfast Sandwiches,
+312,BACON & EGG,295,Breakfast Sandwiches,
+313,SAUSAGE & EGG,295,Breakfast Sandwiches,
+314,SCRAPPLE & EGG,295,Breakfast Sandwiches,
+315,HAM & EGG,295,Breakfast Sandwiches,
+316,TURKEY SAUSAGE or TURKEY BACON or BEEF SAUSAGE & EGG,295,Breakfast Sandwiches,
+317,BACON SANDWICH,295,Breakfast Sandwiches,
+318,SAUSAGE SANDWICH,295,Breakfast Sandwiches,
+319,SCRAPPLE SANDWICH,295,Breakfast Sandwiches,
+320,PORK ROLL SANDWICH,295,Breakfast Sandwiches,
+321,BEEF SAUSAGE SANDWICH,295,Breakfast Sandwiches,
+322,WESTERN EGG SANDWICH,350,Breakfast Sandwiches,
+323,PEPPER & EGG SANDWICH,295,Breakfast Sandwiches,
+324,"STEAK, EGG & CHEESE",450,Breakfast Sandwiches,on Toasted Bagel with Sauteed Onions
+325,"STEAK, EGG & CHEESE",595,Breakfast Sandwiches,on Long Roll
+326,TONY'S SLAM,575,Breakfast Specials,2 Eggs (Any Style) with 2 Pieces of Bacon & 2 Pieces of Sausage with 2 Hot Cakes or 2 Pieces of French Toast
+327,Tony's Breakfast Special Suggestion,575,Breakfast Specials,"Egg & Cheese with Choice of Home, Bacon, Sausage or Scrapple on a toasted Thomas English Muffin or Toasted Bagel. Served with side of Home Fries with Onions & Green Peppers"
+328,TURKEY SAUSAGE or TURKEY BACON,245,On the Side,
+329,SIDE ORDER of BACON or SAUSAGE,245,On the Side,
+330,SIDE ORDER of PORK ROLL,245,On the Side,
+331,2 PIECES of SCRAPPLE,245,On the Side,
+332,SIDE ORDER OF HOME FRIED POTATOES,175,On the Side,
+333,SIDE ORDER OF HOME FRIED POTATOES,205,On the Side,With Onions
+334,SIDE ORDER OF HOME FRIED POTATOES,235,On the Side,With Onions & Green Peppers
+335,SIDE ORDER OF HOMINY GRITS WITH BUTTER,175,On the Side,
+336,HOT OATMEAL With Butter,200,On the Side,
+337,CEREAL,175,On the Side,
+338,CEREAL,240,On the Side,With Banana
+339,"TOASTED CORN, BRAN, BLUEBERRY MUFFIN",195,Etc.,
+340,TOASTED CINNAMON BUN,195,Etc., with Butter & Jelly
+341,TOASTED RAISIN BAGEL,175,Etc., with Butter & Jelly
+342,TOASTED RAISIN BAGEL,225,Etc.,with CREAM CHEESE & JELLY
+343,TOASTED BAGEL,175,Etc., with Butter & Jelly
+344,TOASTED BAGEL,225,Etc.,With Cream Cheese & Jelly
+345,TOASTED BAGEL,275,Etc.,With Cream Cheese & Tomato
+346,TOASTED BAGEL,425,Etc.,With Cream Cheese & Bacon
+347,TOASTED BAGEL,325,Etc.,With Melted Cheese
+348,TOASTED THOMAS ENGLISH MUFFIN,195,Etc., with Butter & Jelly
+349,White TOAST,95,Etc., with Butter & Jelly
+350,WHEAT OR RYE TOAST,125,Etc., with Butter & Jelly
+351,DONUT,75,Etc.,
+352,DANISH,140,Etc.,
+353,Grilled Chicken Sandwich Special,1399,Specials,*2 Marinated Grilled Chicken Breast Sandwiches with Roasted Peppers or Spinach & Melted Sharp Provolone on Kaiser Roll <br>*2 Orders of French Fries & <br> 2 Cans of Soda
+354,Grilled Cubano,1599,Specials,"*2 Tony's Grilled Cubanos: Roasted Pork, Ham, Swiss Cheese, Mango Slices, Shredded Lettuce, Pickles & Mustard, Grilled on Rye Bread <br> *Served with French Fries &<br>*A Can of Soda"
+355,Philadelphia Hoages,1399,Specials,-2 Philadelphia Hoagies of Any Kind<br>-2 Bags of Potato Chips &<br>-2 Cans of Soda
+356,Honey Dipt Chicken,1599,Specials,"-2 Orders of Honey Dipt Chicken (4pcs.)<br>Served with French Fries, Cole Slaw <br>& 2 Cans of Soda"
+357,Tony's Supreme Fries,599,Specials,"-Tony's Supreme Fries<br>Topped with Melted Provolone Cheese, Cheddar Cheese, Bacon & Ranch Dressing<br>with a Can of Soda"

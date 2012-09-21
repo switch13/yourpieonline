@@ -1,0 +1,10 @@
+sku,title,price,size,crust
+sm_thin,Custom Pizza,995,sm,thin_crust
+sm_brooklyn,Custom Pizza,985,sm,brooklyn_crust
+sm_sicilian,Custom Pizza,975,sm,sicilian_crust
+med_thin,Custom Pizza,1095,med,thin_crust
+med_brooklyn,Custom Pizza,1085,med,brooklyn_crust
+med_sicilian,Custom Pizza,1075,med,sicilian_crust
+lg_thin,Custom Pizza,1395,lg,thin_crust
+lg_brooklyn,Custom Pizza,1385,lg,brooklyn_crust
+lg_sicilian,Custom Pizza,1375,lg,sicilian_crust

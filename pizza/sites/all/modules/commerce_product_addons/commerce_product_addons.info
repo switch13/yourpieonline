@@ -1,0 +1,13 @@
+name = Product Addons
+description = Enables addons of products.
+package = "Rikuni (Custom)"
+dependencies[] = commerce_product
+dependencies[] = commerce_product_attributes
+core = 7.x
+version = "7.x-1.1"
+
+; Rules
+files[] = commerce_product_addons.rules.inc
+files[] = commerce_product_addons.rules_defaults.inc
+
+

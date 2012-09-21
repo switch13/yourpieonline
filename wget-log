@@ -1,0 +1,62 @@
+Retrying.
+
+--2011-10-05 04:16:57--  (try: 6)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:17:24--  (try: 7)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:17:52--  (try: 8)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:18:21--  (try: 9)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:18:51--  (try:10)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:19:22--  (try:11)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:19:53--  (try:12)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:20:24--  (try:13)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:20:55--  (try:14)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:21:26--  (try:15)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:21:57--  (try:16)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:22:28--  (try:17)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:22:59--  (try:18)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:23:30--  (try:19)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Retrying.
+
+--2011-10-05 04:24:01--  (try:20)  http://ftp.drupal.org/files/projects/masquerade-7.x-1.0-rc4.tar.gz
+Connecting to ftp.drupal.org|140.211.166.134|:80... failed: Connection timed out.
+Giving up.
+
